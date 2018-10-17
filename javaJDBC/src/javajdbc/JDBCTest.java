@@ -1,10 +1,6 @@
 package javajdbc;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 /**
  * Created by qcl on 2017/11/18.
@@ -13,11 +9,11 @@ import java.sql.Statement;
 public class JDBCTest {
     public static void main(String[] args) {
         Connection con;
-        String driver="com.mysql.jdbc.Driver";
+        String driver = "com.mysql.jdbc.Driver";
         //这里我的数据库是qcl
-        String url="jdbc:mysql://localhost:3306/pfuser";
-        String user="root";
-        String password="123456";
+        String url = "jdbc:mysql://localhost:3306/pfuser";
+        String user = "root";
+        String password = "123456";
         try {
             Class.forName(driver);
             con = DriverManager.getConnection(url, user, password);
@@ -26,11 +22,11 @@ public class JDBCTest {
             }
             Statement statement = con.createStatement();
             //表格为customers
-            String sql = "select * from customers;";
+            String sql = "select * from orderitems;";
             ResultSet resultSet = statement.executeQuery(sql);
             String name;
             while (resultSet.next()) {
-                name = resultSet.getString("cust_id");
+                name = resultSet.getString("prod_id");
                 System.out.println("姓名：" + name);
             }
             resultSet.close();
