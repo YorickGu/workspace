@@ -13,7 +13,7 @@
     <session id="-23058044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/UDP/Test/UDPreceive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,12 +103,6 @@
               <item name="javasocket" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javasocket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javasocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -147,16 +141,15 @@
       <option name="presentableId" value="Default" />
       <updated>1539753783862</updated>
       <workItem from="1539753788761" duration="1169000" />
-      <workItem from="1539757372836" duration="643000" />
+      <workItem from="1539757372836" duration="1264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1812000" />
+    <option name="totallyTimeSpent" value="2433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="944" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12240516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -197,7 +190,7 @@
     <entry file="file://$PROJECT_DIR$/src/UDP/Test/UDPreceive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
