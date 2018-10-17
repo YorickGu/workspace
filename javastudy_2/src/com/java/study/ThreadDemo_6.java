@@ -12,22 +12,24 @@ public class ThreadDemo_6 {
 }
 
 class TestThread implements Runnable{
-    private int tickets = 50;
+    private int tickets = 20;
     @Override
     public void run() {
 
         while (true){
-            while (tickets>0){
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                System.out.println("正在售出第"+tickets--+"张票");
-            }
+            //同步代码块
+            scale();
         }
+    }
 
-
-
+    public synchronized void scale(){
+        while (tickets > 0) {
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            System.out.println("正在售出第" + tickets-- + "张票");
+        }
     }
 }
