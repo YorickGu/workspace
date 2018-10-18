@@ -3,39 +3,59 @@ package javajdbc;
 import java.sql.*;
 
 /**
- * Created by qcl on 2017/11/18.
+ * Created by qcl on 2018/10/18.
  * 数据库连接
  */
 public class JDBCTest {
     public static void main(String[] args) {
-        Connection con;
+        Connection con = null;
+//        Statement statement = null;
+        PreparedStatement perstmt = null;
+        ResultSet resultSet = null;
         String driver = "com.mysql.jdbc.Driver";
-        //这里我的数据库是qcl
+        //这里我的数据库是pfuser
         String url = "jdbc:mysql://localhost:3306/pfuser";
         String user = "root";
         String password = "123456";
         try {
+            //加载驱动，成功加载以后会把Driver类的实例注册到DriverManger类中
             Class.forName(driver);
+            //提供JDBC连接的URL，jdbc:mysql://localhost:3306/pfuser
             con = DriverManager.getConnection(url, user, password);
             if (!con.isClosed()) {
                 System.out.println("数据库连接成功");
             }
-            Statement statement = con.createStatement();
+            String sql = "select * from orderitems where order_num = ?";
+
+//            statement = con.createStatement();
+            perstmt = con.prepareStatement(sql);
+
+            perstmt.setObject(1, 20005);
+
             //表格为customers
-            String sql = "select * from orderitems;";
-            ResultSet resultSet = statement.executeQuery(sql);
+//            String sql = "select * from orderitems;";
+//            resultSet = statement.executeQuery(sql);
+
+            resultSet = perstmt.executeQuery();
+
             String name;
             while (resultSet.next()) {
                 name = resultSet.getString("prod_id");
                 System.out.println("姓名：" + name);
             }
-            resultSet.close();
-            con.close();
         } catch (ClassNotFoundException e) {
             System.out.println("数据库驱动没有安装");
-
         } catch (SQLException e) {
             System.out.println("数据库连接失败");
+        } finally {
+            try {
+                resultSet.close();
+//                statement.close();
+                perstmt.close();
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
