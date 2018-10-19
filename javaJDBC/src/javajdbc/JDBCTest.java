@@ -49,13 +49,30 @@ public class JDBCTest {
             System.out.println("数据库连接失败");
         } finally {
             try {
-                resultSet.close();
-//                statement.close();
-                perstmt.close();
-                con.close();
+                if (resultSet!=null){
+                    resultSet.close();
+                }
             } catch (SQLException e) {
                 e.printStackTrace();
             }
+
+            try {
+                if (perstmt!=null){
+                    perstmt.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+
+            try {
+                if (con!=null){
+                    con.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+
+
         }
     }
 }
