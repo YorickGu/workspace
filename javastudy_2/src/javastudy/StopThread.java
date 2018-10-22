@@ -16,14 +16,17 @@ class ThreadTest implements Runnable {
     }
 }
 
+/**
+ * @author guyao
+ */
 public class StopThread {
     public static void main(String[] args) throws InterruptedException, FileNotFoundException {
         Properties pro = System.getProperties();
-//        pro.list(System.out);
+        pro.list(System.out);
         pro.list(new PrintStream("logdemo.txt"));
         Set<String> names = pro.stringPropertyNames();
-        for(String name:names){
-            System.out.println(name+":"+pro.getProperty(name));
+        for (String name : names) {
+            System.out.println(name + ":" + pro.getProperty(name));
         }
 
         ThreadTest tt = new ThreadTest();
