@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063dd5e5-3f36-4b97-97c4-c271ceace7fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/RunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/RunnableThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/TestStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/ToStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/ToStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/内部类测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/内部类测试.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/CalendarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/PropertiesFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/PropertiesFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/RandomDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/TestColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/TestColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Ant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Ant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/CWTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Main_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Main_function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Pattern_Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/javastudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/javastudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/StopThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/StopThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommcuncation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommcuncation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommuncation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommuncation_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaStudy/src/com/java/study/ThreadJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/src/com/java/study/ThreadJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources/f11df825-680c-4128-8e97-64aad85cc8c5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources/f11df825-680c-4128-8e97-64aad85cc8c5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/javaJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/javaJDBC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/javajdbc/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/javajdbc/JDBCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/javasocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/javasocket.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoMultiSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoMultiSever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoSever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPreceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPreceive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPsend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPsend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/socket/HelloClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/socket/HelloClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javasocket/src/socket/HelloSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/socket/HelloSever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastudy_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javastudy_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logdemo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logdemo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudy_2/javastudy/StopThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudy_2/javastudy/StopThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/DeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study/threadsleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/threadsleep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javastudy/StopThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javastudy/StopThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/CWMTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/CWMTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/CWTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/Pattern_Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/kmeans/K_meansMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/kmeans/K_meansMid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CW/MTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CW/MTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CWtest/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/CWTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CWtest/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/Pattern_Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CWtest/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/CWtest/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Kmeans/K_meansMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Kmeans/K_meansMid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/MTSP/CWMTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/CWMTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/MTSP/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/CWTSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/MTSP/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/Pattern_Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/MTSP/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/MTSP/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/src/Thread_1/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/src/Thread_1/Tickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/黑马程序员多线程.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/黑马程序员多线程.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,39 +65,41 @@
     <session id="-935956297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="355" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="355" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="customers" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="7" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="7" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -237,25 +108,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="115">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/java_test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -278,6 +154,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/javastudy/StopThread.java" />
         <option value="$PROJECT_DIR$/src/com/java/study_2/java_test.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java" />
       </list>
     </option>
   </component>
@@ -293,6 +171,23 @@
     <option name="width" value="1301" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AlibabaThreadPoolCreation</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -301,8 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,7 +233,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540184068433" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540296720452" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -358,13 +253,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.java_test">
+  <component name="RunManager" selected="Application.TestScheduledThreadPoolExecutor">
     <configuration name="StopThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javastudy.StopThread" />
       <module name="javastudy_2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javastudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScheduledThreadPoolExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study_2.TestScheduledThreadPoolExecutor" />
+      <module name="javastudy_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.study_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study_2.ThreadPool" />
+      <module name="javastudy_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.study_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,11 +309,15 @@
     <list>
       <item itemvalue="Application.StopThread" />
       <item itemvalue="Application.java_test" />
+      <item itemvalue="Application.ThreadPool" />
+      <item itemvalue="Application.TestScheduledThreadPoolExecutor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java_test" />
+        <item itemvalue="Application.TestScheduledThreadPoolExecutor" />
+        <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.StopThread" />
+        <item itemvalue="Application.java_test" />
       </list>
     </recent_temporary>
   </component>
@@ -418,17 +343,19 @@
       <workItem from="1540183730873" duration="336000" />
       <workItem from="1540202344459" duration="516000" />
       <workItem from="1540203349991" duration="821000" />
+      <workItem from="1540248915799" duration="128000" />
+      <workItem from="1540288588525" duration="5072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6189000" />
+    <option name="totallyTimeSpent" value="11389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.1925982" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.16465257" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -437,7 +364,7 @@
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32819724" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.5053929" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.1540832" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -482,23 +409,56 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4a3ba800-5722-4ce2-8fd8-3c7b692f7951/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/java_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="260">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/java_test.java">
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="207">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
           </folding>
         </state>
       </provider>
