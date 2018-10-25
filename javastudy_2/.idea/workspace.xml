@@ -1,9 +1,166 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebe529f1-c49b-45fe-946a-770c0655b85c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="212ea09c-0dc8-41d8-9e66-2b7cd8a60a9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/CW_Ant_Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/CW_Ant_Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/RunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/RunnableThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/TestThread_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/Thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/ToStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/ToStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/内部类测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/sort/内部类测试.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/CalendarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/PropertiesFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/PropertiesFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/RandomDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/TestColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/TestColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test/info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/ACOtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Ant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Ant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/CWTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Main_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Main_function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/Pattern_Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CW_Ant_Algorithm/src/test_2/init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/javastudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/javastudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/StopThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/StopThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommcuncation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommcuncation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommuncation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects/javastudy/src/com/java/study/ThreadCommuncation_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/src/com/java/study/ThreadJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/src/com/java/study/ThreadJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources/f11df825-680c-4128-8e97-64aad85cc8c5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/dataSources/f11df825-680c-4128-8e97-64aad85cc8c5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/javaJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/javaJDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/JdbcDemo_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/JDBCDemo/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaJDBC/src/javajdbc/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaJDBC/src/javajdbc/JDBCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/javasocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/javasocket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/EchoTest/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoMultiSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoMultiSever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/ThreadEchoSever/EchoSever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPreceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPreceive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPsend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/UDP/Test/UDPsend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/socket/HelloClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/socket/HelloClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javasocket/src/socket/HelloSever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javasocket/src/socket/HelloSever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2bb0c85d-3e41-4baf-bb71-85f7e22d2297.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2bb0c85d-3e41-4baf-bb71-85f7e22d2297.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastudy_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javastudy_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logdemo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logdemo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study/threadsleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study/threadsleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/study_2/java_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/study_2/java_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javastudy/StopThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javastudy/StopThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/clusteringalgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/clusteringalgorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/CWMTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/CWMTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/CWTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/Pattern_Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/Clustering/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/Clustering/init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/kmeans/K_meansMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/kmeans/K_meansMid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project01/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project01/src/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CW/MTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CW/MTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CWtest/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/CWTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CWtest/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/Pattern_Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CWtest/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CWtest/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/CWtest/init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Kmeans/K_meansMid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Kmeans/K_meansMid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MTSP/CWMTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/CWMTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MTSP/CWTSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/CWTSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MTSP/Pattern_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/Pattern_Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MTSP/function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MTSP/init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/MTSP/init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/src/Thread_1/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/src/Thread_1/Tickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../黑马程序员多线程/黑马程序员多线程.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../黑马程序员多线程/黑马程序员多线程.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,57 +173,63 @@
     <session id="-2044916602">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.20" value="2" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3308" />
+          <entry key="java" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3308" />
+          <entry key="JAVA" value="78" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2375">
-              <caret line="101" column="31" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+            <state relative-caret-position="286">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/GradientDescent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
+        <entry file="file://$PROJECT_DIR$/src/javastudy/suijitidu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="470">
+              <caret line="90" column="82" selection-start-line="90" selection-start-column="82" selection-end-line="90" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,15 +252,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/study/threadsleep.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/DeadLock.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/ThreadCommuncation_2.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java" />
-        <option value="$PROJECT_DIR$/src/javastudy/StopThread.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/GradientDescent.java" />
+        <option value="$PROJECT_DIR$/src/javastudy/suijitidu.java" />
       </list>
     </option>
   </component>
@@ -112,7 +268,7 @@
     <option name="width" value="1101" />
     <option name="height" value="1404" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -120,7 +276,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,26 +292,28 @@
               <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javastudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="StopThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540117846771" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540448844758" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,11 +327,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StopThread">
-    <configuration name="StopThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.StopThread" />
+  <component name="RunManager" selected="Application.suijitidu">
+    <configuration name="GradientDescent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.GradientDescent" />
       <module name="javastudy_2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javastudy.*" />
@@ -185,13 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurgeryThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.SurgeryThreadPool" />
+    <configuration name="StopThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.StopThread" />
       <module name="javastudy_2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,82 +354,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadCommmuncation_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study_2.ThreadCommmuncation_2" />
+    <configuration name="suijitidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.suijitidu" />
       <module name="javastudy_2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study_2.*" />
+          <option name="PATTERN" value="javastudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadCommmuncation_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.ThreadCommmuncation_2" />
-      <module name="javastudy_2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadCommuncation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.ThreadCommuncation" />
-      <module name="javastudy_2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadCommuncation" />
-      <item itemvalue="Application.SurgeryThreadPool" />
-      <item itemvalue="Application.ThreadCommmuncation_2" />
-      <item itemvalue="Application.ThreadCommmuncation_2 (1)" />
       <item itemvalue="Application.StopThread" />
+      <item itemvalue="Application.GradientDescent" />
+      <item itemvalue="Application.suijitidu" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.suijitidu" />
+        <item itemvalue="Application.GradientDescent" />
         <item itemvalue="Application.StopThread" />
-        <item itemvalue="Application.ThreadCommmuncation_2 (1)" />
-        <item itemvalue="Application.ThreadCommmuncation_2" />
-        <item itemvalue="Application.ThreadCommuncation" />
-        <item itemvalue="Application.SurgeryThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -283,638 +385,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ebe529f1-c49b-45fe-946a-770c0655b85c" name="Default" comment="" />
-      <created>1539170496876</created>
+      <changelist id="212ea09c-0dc8-41d8-9e66-2b7cd8a60a9b" name="Default Changelist" comment="" />
+      <created>1540444222313</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539170496876</updated>
-      <workItem from="1539170500673" duration="6673000" />
-      <workItem from="1539184134251" duration="593000" />
-      <workItem from="1539222185233" duration="314000" />
-      <workItem from="1539246530712" duration="1939000" />
-      <workItem from="1539253656490" duration="9905000" />
-      <workItem from="1539342784891" duration="1381000" />
-      <workItem from="1539928839064" duration="3951000" />
-      <workItem from="1539944999013" duration="7611000" />
-      <workItem from="1540004154622" duration="2974000" />
-      <workItem from="1540012113074" duration="17908000" />
-      <workItem from="1540117757849" duration="261000" />
-      <workItem from="1540120702299" duration="49000" />
-      <workItem from="1540345109818" duration="463000" />
+      <updated>1540444222313</updated>
+      <workItem from="1540444232293" duration="3239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54022000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13099499" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49512988" weight="0.4512947" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3292232" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3262987" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.32954547" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.5048701" side_tool="true" visible="true" weight="0.12598425" />
-    </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/threadsleep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/SecurityManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
-          <caret line="226" column="23" lean-forward="true" selection-start-line="226" selection-start-column="23" selection-end-line="226" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="312" column="18" selection-start-line="312" selection-start-column="18" selection-end-line="312" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/ThreadDemo_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/ThreadInterupt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/ThreadCommuncation_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/ThreadCommuncation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/SurgeryThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="177" column="17" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="265" column="7" lean-forward="true" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadCommmuncation_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2375">
-          <caret line="101" column="31" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>javastudy_2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="063dd5e5-3f36-4b97-97c4-c271ceace7fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2114929841">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="9" />
-          <entry key="txt" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="customers" value="1" />
-          <entry key="sql" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Database Element" value="1" />
-          <entry key="Scratch" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-935956297">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="2" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="355" />
-          <entry key="txt" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="355" />
-          <entry key="PLAIN_TEXT" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="customers" value="1" />
-          <entry key="java" value="7" />
-          <entry key="sql" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Database Element" value="1" />
-          <entry key="JAVA" value="7" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/javastudy/StopThread.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study_2/java_test.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="690" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Ali-Check</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AlibabaThreadPoolCreation</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastudy_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastudy_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540296720452" />
-    <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TestScheduledThreadPoolExecutor">
-    <configuration name="StopThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.StopThread" />
-      <module name="javastudy_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javastudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestScheduledThreadPoolExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study_2.TestScheduledThreadPoolExecutor" />
-      <module name="javastudy_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study_2.ThreadPool" />
-      <module name="javastudy_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study_2.java_test" />
-      <module name="javastudy_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.StopThread" />
-      <item itemvalue="Application.java_test" />
-      <item itemvalue="Application.ThreadPool" />
-      <item itemvalue="Application.TestScheduledThreadPoolExecutor" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TestScheduledThreadPoolExecutor" />
-        <item itemvalue="Application.ThreadPool" />
-        <item itemvalue="Application.StopThread" />
-        <item itemvalue="Application.java_test" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="063dd5e5-3f36-4b97-97c4-c271ceace7fd" name="Default Changelist" comment="" />
-      <created>1540120187120</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1540120187120</updated>
-      <workItem from="1540120197119" duration="97000" />
-      <workItem from="1540120378952" duration="35000" />
-      <workItem from="1540120465623" duration="375000" />
-      <workItem from="1540120902488" duration="2391000" />
-      <workItem from="1540134763194" duration="175000" />
-      <workItem from="1540134976594" duration="371000" />
-      <workItem from="1540136863945" duration="36000" />
-      <workItem from="1540174813405" duration="843000" />
-      <workItem from="1540178340260" duration="193000" />
-      <workItem from="1540183730873" duration="336000" />
-      <workItem from="1540202344459" duration="516000" />
-      <workItem from="1540203349991" duration="821000" />
-      <workItem from="1540248915799" duration="128000" />
-      <workItem from="1540288588525" duration="5072000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11389000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.16465257" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32819724" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.1540832" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13385826" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3292232" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3292232" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.08138101" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.18126889" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50080776" weight="0.15204236" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -923,151 +437,36 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7f8d552c-edbe-43fc-9544-7b71714c5d6b/console.sql" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2bb0c85d-3e41-4baf-bb71-85f7e22d2297/console.sql" />
-    <entry file="das://2bb0c85d-3e41-4baf-bb71-85f7e22d2297/schema/test/table/customers">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4a3ba800-5722-4ce2-8fd8-3c7b692f7951/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/java_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javastudy/StopThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javastudy/GradientDescent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/util/concurrent/Executors.java">
+    <entry file="file://$PROJECT_DIR$/src/javastudy/suijitidu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="470">
+          <caret line="90" column="82" selection-start-line="90" selection-start-column="82" selection-end-line="90" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study_2/TestScheduledThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>javastudy_2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
->>>>>>> dbaff8252d4e13aed88984266bd77c672bc03f2f
 </project>
