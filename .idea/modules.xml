@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CW_Ant_Algorithm/CW_Ant_Algorithm.iml" filepath="$PROJECT_DIR$/CW_Ant_Algorithm/CW_Ant_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStudy/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaJDBC/javaJDBC.iml" filepath="$PROJECT_DIR$/javaJDBC/javaJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javasocket/javasocket.iml" filepath="$PROJECT_DIR$/javasocket/javasocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/javastudy/javastudy.iml" filepath="$PROJECT_DIR$/IdeaProjects/javastudy/javastudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javastudy_2/javastudy_2.iml" filepath="$PROJECT_DIR$/javastudy_2/javastudy_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project01/project01.iml" filepath="$PROJECT_DIR$/project01/project01.iml" />
       <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/黑马程序员多线程/黑马程序员多线程.iml" filepath="$PROJECT_DIR$/黑马程序员多线程/黑马程序员多线程.iml" />
     </modules>
   </component>
 </project>
